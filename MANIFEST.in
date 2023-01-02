@@ -1,9 +1,3 @@
-exclude enum/*
-include setup.py
-include README
-include enum/__init__.py
-include enum/test.py
-include enum/LICENSE
-include enum/README
-include enum/doc/enum.pdf
-include enum/doc/enum.rst
+version https://git-lfs.github.com/spec/v1
+oid sha256:77e3151c6f2fbedd0ed1e7d55ebf7f46ea6e4dc7007ff129fef26c118db0b977
+size 186
